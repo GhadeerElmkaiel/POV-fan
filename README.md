@@ -1,5 +1,13 @@
 # POV Fan Project
 
+## 🔗 YouTube Videos
+
+### ▶️ English version  
+[![Watch the video](https://img.youtube.com/vi/GS9G-EpY_SY/hqdefault.jpg)](https://youtu.be/GS9G-EpY_SY?si=elMvtA2VpS_cLbiC)
+
+### ▶️ Arabic version  
+[![Watch the video](https://img.youtube.com/vi/qHcmiEZY0y4/hqdefault.jpg)](https://youtu.be/qHcmiEZY0y4?si=-6HQ0VZoEA3KTZWj)
+
 This repository contains code for a Persistence of Vision (POV) fan display using addressable LEDs and image processing in Python. The project allows you to convert images into color data for a rotating LED fan and display static or animated images.
 
 ## Features
